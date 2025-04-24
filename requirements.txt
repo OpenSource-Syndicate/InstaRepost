@@ -1,4 +1,4 @@
-instagrapi==1.17.7
+instagrapi
 python-dotenv==1.0.0
 schedule==1.2.0
 Pillow==9.5.0
