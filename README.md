@@ -27,7 +27,7 @@ A Python application that automatically reposts saved Instagram content to your 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/insta-bulk.git
+   git clone https://github.com/Likhithsai2580/InstaRepost.git
    cd insta-bulk
    ```
 
